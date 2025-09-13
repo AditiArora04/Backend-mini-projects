@@ -1,0 +1,56 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    color: maroon;
+    font-size: 50px;
+}
+.post{
+    background-color: blanchedalmond;
+    width: 600px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    box-shadow: 0 0 6px  rgb(62, 57, 57);
+}
+.user{
+    font-style: italic;
+    font-weight:1000;
+    text-align: center;
+    text-decoration: underline;
+}
+.content{
+    padding-left: 25px;
+    font-weight: 500;
+}
+a{
+    font-size: 19px;
+    font-weight: 500;
+}
+div a {
+    color: maroon;
+    margin-left: 148px;
+}
+.a{
+    margin-right: 100px;
+}
+button{
+    background-color: maroon;
+    color: white;
+    border: 1px solid white;
+    border-radius: 9px;
+    padding: 6px;
+}
+.btn{
+    margin-left: 43.5%;
+    font-size: 1rem;
+}
+.bt{
+    margin-left: 42%;
+}
+.bt2{
+    margin-left: 37%;
+}
